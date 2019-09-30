@@ -1,6 +1,13 @@
 # my_business_card
 
-A new Flutter application.
+Flutter Layout Practice : Stateful/ Stateless
+
+1. Single-child layout widgets
+2. Multi-child layout widgets
+
+Practice using container() and how to arrange columns() and rows() inside a container
+
+Learned from the article: https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e
 
 ## Getting Started
 
