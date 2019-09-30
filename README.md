@@ -1,6 +1,6 @@
-# my_business_card
+# Flutter Layout Practice : Stateful/ Stateless
 
-Flutter Layout Practice : Stateful/ Stateless
+Get Hands on Practice of Flutter Layouts
 
 1. Single-child layout widgets
 2. Multi-child layout widgets
